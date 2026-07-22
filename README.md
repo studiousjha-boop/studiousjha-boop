@@ -1,6 +1,6 @@
 # Hi, I'm Raghu 👋
 
-Fresher (2026 grad) actively applying for Software Engineering / SDE roles. I build full-stack apps with ML components and spend the rest of my time grinding DSA on LeetCode and Codeforces.
+Fresher (2027 grad) actively applying for Software Engineering / SDE roles. I build full-stack apps with ML components and spend the rest of my time grinding DSA on LeetCode and Codeforces.
 
 ---
 
