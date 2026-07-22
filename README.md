@@ -26,16 +26,13 @@ Fresher (2026 grad) actively applying for Software Engineering / SDE roles. I bu
 - Multi-tab frontend with Chart.js analytics dashboard
 - Includes a pytest test suite; packaged for deployment on Render/Railway
 
-**[Spendly](#)** — Expense tracker (Flask + SQLite)
-- Actively developed expense tracking application
-
-**[SpendWise](#)** — Lightweight expense tracker
+**[SpendWiser](#)** — Lightweight expense tracker
 - Vanilla JS/HTML build using localStorage — an early resume-ready project
 
-**Movie Recommender System**
+**MoveMe**
 - Built with Streamlit, integrated with the TMDB API for movie data and posters
 
-**RAG-based PDF Q&A**
+**DocTor(RAG)**
 - Retrieval-augmented generation project for answering questions over PDF documents
 
 ---
@@ -49,8 +46,8 @@ Fresher (2026 grad) actively applying for Software Engineering / SDE roles. I bu
 ---
 
 ### 📫 Reach Me
-- 📧 your.email@example.com
-- 💼 [LinkedIn](#)
+- 📧 studiousjha@gmail.com
+- 💼 [[LinkedIn](https://www.linkedin.com/in/raghu-jha-1b6022266/)](#)
 
 ---
 
