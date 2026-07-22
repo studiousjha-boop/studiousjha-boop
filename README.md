@@ -20,13 +20,13 @@ Fresher (2027 grad) actively applying for Software Engineering / SDE roles. I bu
 
 ### 📌 Featured Projects
 
-**[SpamSentinel](#)** — Full-stack spam detection app
+**SpamSentinel** — Full-stack spam detection app
 - ML pipeline: TF-IDF + Logistic Regression for classification
 - Flask backend with rate limiting and SQLite persistence
 - Multi-tab frontend with Chart.js analytics dashboard
 - Includes a pytest test suite; packaged for deployment on Render/Railway
 
-**[SpendWiser](#)** — Lightweight expense tracker
+**SpendWiser** — Lightweight expense tracker
 - Vanilla JS/HTML build using localStorage — an early resume-ready project
 
 **MoveMe**
